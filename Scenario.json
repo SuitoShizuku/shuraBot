@@ -1,0 +1,42 @@
+[{
+  "TEMPLATE": [
+    {
+      "NAME": "シナリオタイトル | 文字型",
+      "PL_MIN": "最小PL数 | 数字型",
+      "PL_MAX": "最大PL数 | 数字型",
+      "DESCRIPTION": "説明 | 文字型",
+      "DETAILS": "詳細 改行は[半角バックスラッシュ]と[n] | 文字型",
+      "TIME__HOUR": "推定プレイ時間 | 文字型",
+      "URL": "シナリオ配布場所 | 文字型, 書きたくない場合は null"
+    }
+  ],
+  "HIBANA": [
+    {
+      "NAME": "毒入りスープ",
+      "PL_MIN": 1,
+      "PL_MAX": 3,
+      "DESCRIPTION": "白い部屋クローズド",
+      "DETAILS": "推奨技能を取りやすい医者などがおすすめ\nロスト率は低め",
+      "TIME__HOUR": "~1",
+      "URL": null
+    },
+    {
+      "NAME": "彼方からの君に捧ぐ",
+      "PL_MIN": 4,
+      "PL_MAX": 4,
+      "DESCRIPTION": "白い部屋クローズド",
+      "DETAILS": "エモシ",
+      "TIME__HOUR": "7~9",
+      "URL": "https://booth.pm/ja/items/2246198"
+    },
+    {
+      "NAME": "探索者すぐ死ぬ",
+      "PL_MIN": 1,
+      "PL_MAX": 3,
+      "DESCRIPTION": "白い部屋クローズド",
+      "DETAILS": "ロスト率:極限",
+      "TIME__HOUR": "~1",
+      "URL": "https://booth.pm/ja/items/3367520"
+    }
+  ]
+}]
