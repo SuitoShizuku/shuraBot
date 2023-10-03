@@ -1,0 +1,17 @@
+{
+  "name": "takschuller",
+  "version": "1.0.0",
+  "description": "takushuraaaaaa",
+  "main": "main.js",
+  "scripts": {
+    "test": "testart"
+  },
+  "author": "SuitoShizuku",
+  "license": "MIT",
+  "dependencies": {
+    "bcdice": "^4.4.0",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
