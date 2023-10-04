@@ -6,7 +6,8 @@
       "PL_MAX": "最大PL数 | 数字型",
       "DESCRIPTION": "説明 | 文字型",
       "DETAILS": "詳細 改行は[半角バックスラッシュ]と[n] | 文字型",
-      "TIME__HOUR": "推定プレイ時間 | 文字型",
+      "TIME__HOUR": "推定プレイ時間 | 文字型 未定義の場合null",
+      "TIME__MIN": "推定プレイ時間(分) | 文字型 未定義の場合null"
       "URL": "シナリオ配布場所 | 文字型, 書きたくない場合は null"
     }
   ],
@@ -27,6 +28,7 @@
       "DESCRIPTION": "白い部屋クローズド",
       "DETAILS": "エモシ",
       "TIME__HOUR": "7~9",
+      "TIME__MIN": null,
       "URL": "https://booth.pm/ja/items/2246198"
     },
     {
@@ -36,12 +38,15 @@
       "DESCRIPTION": "白い部屋クローズド",
       "DETAILS": "ロスト率:極限",
       "TIME__HOUR": "~1",
+      "TIME__MIX": null,
       "URL": "https://booth.pm/ja/items/3367520"
     },
     {
       "NAME": "暴走者を止めろ！",
       "PL_MIN": 1,
       "PL_MAX": 2,
+      "TIME__HOUR": "",
+      "TIME__MIN": "",
       "DESCRIPTION": "車内クローズド",
       "DETALIS": "時間制限あり",
       "URL": "https://www.pixiv.net/novel/show.php?id=9232409"
@@ -50,7 +55,8 @@
       "NAME": "マジで5分で終わるクトゥルフ",
       "PL_MIN": 1,
       "PL_MIX": 1,
-      "TIME__HOUR": 5
+      "TIME__HOUR": null,
+      "TIME__MIN": "5",
       "DESCRIPTION": "クローズド",
       "DETALIS": "時間制限あり",
     },
@@ -60,7 +66,8 @@
       "PL_MIX": 4,
       "DESCRIPTION": "半シティ",
       "DETALIS": "ネタシ",
-      "TIME__HOUR": "~1"
+      "TIME__HOUR": "~1",
+      "TIME__MIN": null,
       "URL": "https://www.pixiv.net/novel/show.php?id=11169254",
     }
   ]
