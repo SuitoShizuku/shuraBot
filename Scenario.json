@@ -37,6 +37,31 @@
       "DETAILS": "ロスト率:極限",
       "TIME__HOUR": "~1",
       "URL": "https://booth.pm/ja/items/3367520"
+    },
+    {
+      "NAME": "暴走者を止めろ！",
+      "PL_MIN": 1,
+      "PL_MAX": 2,
+      "DESCRIPTION": "車内クローズド",
+      "DETALIS": "時間制限あり",
+      "URL": "https://www.pixiv.net/novel/show.php?id=9232409"
+    },
+    {
+      "NAME": "マジで5分で終わるクトゥルフ",
+      "PL_MIN": 1,
+      "PL_MIX": 1,
+      "TIME__HOUR": 5
+      "DESCRIPTION": "クローズド",
+      "DETALIS": "時間制限あり",
+    },
+    {
+      "NAME": "推奨技能を取らない探索者は死んで当然！",
+      "PL_MIN": 1,
+      "PL_MIX": 4,
+      "DESCRIPTION": "半シティ",
+      "DETALIS": "ネタシ",
+      "TIME__HOUR": "~1"
+      "URL": "https://www.pixiv.net/novel/show.php?id=11169254",
     }
   ]
 }]
