@@ -174,7 +174,7 @@
     {
       "NAME": "くらくなるから",
       "PL_MIN": 1,
-      "PL_MAX": ４,
+      "PL_MAX": 4,
       "DESCRIPTION": "半シティ",
       "DETALIP": "夏シ/幼馴染/青春?/少ししんどい/選択",
       "TIME__HOUR": "3~5",
